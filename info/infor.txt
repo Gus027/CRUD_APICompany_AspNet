@@ -1,0 +1,6 @@
+URL: https://app.ximenesservice.com.br/login
+Login: RENAC_ITAU_ESC
+Senha: RENAC4242
+Combo: Notificação
+
+Número do Contrato: 556375533
